@@ -1,0 +1,94 @@
+﻿Airbnb, Inc. (pronounced /ˈɛərbiːɛnbiː/ AIR-bee-ehn-bee[6] and stylized as airbnb) is an American vacation rental online marketplace company based in San Francisco, California, United States. Airbnb offers arrangement for lodging, primarily homestays, or tourism experiences. The company does not own any of the real estate listings, nor does it host events; it acts as a broker, receiving commissions from each booking.[7]
+
+The company was conceived after its founders rented out an air mattress in their living room, effectively turning their apartment into a bed and breakfast, to offset the high cost of rent in San Francisco. Airbnb is a shortened version of its original name, AirBedandBreakfast.com.
+
+On August 19, 2020, Airbnb announced that it had filed for an initial public offering. The company has been privately valued at $31 billion.
+
+History
+See also: Timeline of Airbnb
+
+Joe Gebbia, Airbnb founder (right)
+Shortly after moving to San Francisco in October 2007, roommates and former schoolmates Brian Chesky and Joe Gebbia came up with the idea of putting an air mattress in their living room and turning it into a bed and breakfast.[9] In February 2008, Nathan Blecharczyk, Chesky's former roommate, joined as the Chief Technology Officer and the third co-founder of the new venture, which they named AirBed & Breakfast.[9][10] They put together a website that offered short-term living quarters, breakfast, and a business networking opportunity for those who were unable to book a hotel in the saturated market.[9] The site Airbedandbreakfast.com officially launched on August 11, 2008.[11][12] The founders had their first customers in town in the summer of 2008, during the Industrial Design Conference held by Industrial Designers Society of America, where travelers had a hard time finding lodging in the city.[13]
+
+Computer programmer Paul Graham invited the founders to the January 2009 winter training session of his startup incubator, Y Combinator, which provided them with training and funding in exchange for a small interest in the company.[14][15][16] With the website already built, they used the Y-Combinator investment to fly to New York to meet users and promote the site.[citation needed] They returned to San Francisco with a profitable business model to present to West Coast investors. By March 2009, the site had 10,000 users and 2,500 listings.[16]
+
+In March 2009, the name of the company was shortened to Airbnb.com, and the site's content had expanded from air beds and shared spaces to a variety of properties including entire homes and apartments, private rooms, and other properties.[17]
+
+In April 2009, the company received seed money from Sequoia Capital. In November 2010, they raised financing from Greylock Partners and Sequoia Capital in a Series A round, and announced that out of 700,000 nights booked, 80% had occurred in the previous six months.[18]
+
+In June 2012, Airbnb announced its 10,000,000th night booked, doubling business in the previous five months.[citation needed]
+
+At the 2011, South by Southwest conference, Airbnb won the "app" award.[19] In October 2011, Airbnb established an office in London, its first international office.[20]
+
+Due to the growth of international end-users, in early 2012, Airbnb opened offices in Paris, Milan, Barcelona, Copenhagen, Moscow, and São Paulo.[21] These openings were in addition to existing offices in San Francisco, London, Hamburg, and Berlin.[22] In September 2013, the company announced that it would establish its European headquarters in Dublin.[23][24]
+
+In November 2012, Airbnb opened an office in Sydney, Australia, its 11th office location, and announced plans to launch the service in Thailand and Indonesia.[25][26] In December 2012, Airbnb announced its strategy to move more aggressively into the Asian market with the launch of an office in Singapore.[27]
+
+In November 2012, Airbnb launched "Neighborhoods", a travel guide of 23 cities that helps travelers choose a neighborhood in which to stay based on certain criteria and personal preferences.[28][29][30][31]
+
+By October 2013, Airbnb had served 9,000,000 guests since its founding in August 2008.[32] Nearly 250,000 properties were added in 2013.[33]
+
+In July 2014, Airbnb revealed design revisions to the site and mobile app and introduced a new logo. The logo, called the, Bélo, is intended to serve as a symbol of "belonging", and consists of four elements: a head which represents people, a location icon that represents place, a heart to symbolize love, and a letter "A" to stand for the company's name.[34][35] In April 2015, following the Obama administration's easing of restrictions on U.S. businesses to operate in Cuba, Airbnb expanded to Cuba, making it one of the first U.S. companies to do so.[36][37]
+
+In the summer of 2016, at the request of three members of the United States Senate, the Federal Trade Commission began investigating how Airbnb affected housing costs. In October 2016, New York Governor Andrew Cuomo signed a bill charging Airbnb fines for violations of local housing laws. The New York Times reported that these events were related and part of a "plan that the hotel association started in early 2016 to thwart Airbnb".[38]
+
+In January 2017, Airbnb led a $13 million investment in restaurant reservation-booking app, Resy, along with serial entrepreneurs Gary Vaynerchuk, Ben Leventhal and Mike Montero.[39]
+
+Airbnb first became profitable during the second half of 2016. Airbnb's revenue grew more than 80% from 2015 to 2016.[40][41] After a $200 million profit in 2018, Airbnb posted a loss of $322 million in 2019.[42]
+
+In February 2018, the company announced Airbnb Plus, a collection of homes that have been vetted for quality of services, comfort and design,[43] as well as Beyond by Airbnb, which offers luxury vacation rentals.[44] By October 2019, two million people were staying with Airbnb each night.[45]
+
+During the COVID-19 pandemic, Airbnb suffered a significant drop in bookings, estimated at between 41% and 96%.[46][47] In response, the company lowered its internal valuation from $31 billion to $26 billion, and has considered delaying plans for an IPO.[48] On March 30, CEO and Head of Community Brian Chesky penned a letter to hosts, pledging $250 million for widespread guest cancellations.[49][50]
+
+On May 5, 2020, Brian Chesky sent a memo to all employees announcing the company would be laying off approximately 1,900 employees, or about 25% of its workforce in the Americas, Europe, and Asia due to the COVID-19 pandemic.[51]
+
+On August 19, 2020, the company announced that it had filed for an initial public offering.[8]
+
+Funding
+In January 2009, the company received $20,000 in venture funding from Y Combinator.[52]
+
+In April 2009, the company raised $600,000 from Sequoia Capital, with Youniversity Ventures partners Jawed Karim, Keith Rabois, and Kevin Hartz participating.[53][54]
+
+In November 2010, it raised $7.2 million in a Series A round of funding led by Greylock Partners and Sequoia Capital.[18]
+
+In July 2011, it raised $112 million in financing led by Andreessen Horowitz. Other early investors included Digital Sky Technologies, General Catalyst Partners, and A Grade Investments partners Ashton Kutcher and Guy Oseary.[55][56][57]
+
+In April 2014, the company closed on an investment of $450 million by TPG Capital, with the company value estimated to be approximately $10 billion.[58] Additional funding was provided by Andreessen Horowitz, Sequoia Capital, Dragoneer Investment Group, T. Rowe Price and Sherpa Capital.[59]
+
+In June 2015, Airbnb raised $1.5 billion in Series E funding led by General Atlantic, and joined by Hillhouse Capital Group, Tiger Management, Kleiner Perkins Caufield & Byers, GGV Capital, China Broadband Capital, and Horizons Ventures.[60][61]
+
+In September 2016, Airbnb raised $555.5 million in funding from Google Capital and Technology Crossover Ventures, valuing the company at $30 billion.[62] In March 2017, Airbnb raised $1 billion in funding, bringing total funding raised to more than $3 billion and valuing the company at $31 billion.[63]
+
+In April 2020, Airbnb raised $1 billion in another round of funding from private equity firms Silver Lake and Sixth Street Partners.[64]
+
+Acquisitions
+On May 31, 2011, Airbnb acquired a German competitor, Accoleo.[65] This takeover, as well as other similar acquisitions, launched the first international Airbnb office, in Hamburg.[66][67] Before the 2012 Summer Olympics, Airbnb acquired London-based rival CrashPadder,[68] subsequently adding 6,000 international listings to its existing inventory. This acquisition made Airbnb the largest lodging website in the United Kingdom.[69][70] In November 2012, Airbnb acquired NabeWise, an online city guide that aggregates curated information for specified locations.[71] The acquisition shifted the company's focus toward offering hyperlocal recommendations to travelers.[72] In December 2012, Airbnb announced the acquisition of Localmind, a location-based question and answer platform.[73]
+
+In February 2017, the company acquired Luxury Retreats International, a Canadian-based villa rental company, for approximately $300 million in cash and stock.[74][75] In February 2017, Airbnb acquired Tilt.com, a social payment startup.[65]
+
+On November 16, 2017, the company acquired Accomable, a startup focused on travel accessibility.[76][77] In March 2019, the company acquired HotelTonight, a website for booking last-minute hotel rooms, for over $400 million.[78][79]
+
+In August 2019, Airbnb acquired Urbandoor,[80] a global online marketplace[81] that offers extended stays to corporate clients. The terms of this deal were not disclosed.[82][65]
+
+Overview
+Airbnb provides a platform for hosts to accommodate guests with short-term lodging and tourism-related activities.[83] Guests can search for lodging using filters such as lodging type, dates, location, and price, and can search for specific types of homes, such as bed and breakfasts, unique homes, and vacation homes.[83][84][85] Before booking, users must provide personal and payment information.[83] Some hosts also require a scan of government-issued identification before accepting a reservation.[86] Guests can chat with hosts through a secure messaging system.[84] Hosts provide prices and other details for their rental or event listings, such as the allowed number of guests, home type, rules, and amenities.[83][84] Hosts and guests have the ability to leave reviews about the experience.[83]
+
+Airbnb Plus designates hosts who provide a verified level of conditions, including a clean refrigerator, full cooking equipment, stocked toiletries,[87] fast Wi-Fi, and strong water pressure.[88] Airbnb Plus listings are marked with a badge to differentiate from standard listings.[87] Airbnb Collections includes Airbnb for Families, Airbnb for Work, and home venues for weddings and other gatherings.[85]
+
+In addition to lodging, Airbnb includes listings for specific services on its platform, as Experiences; members may book both virtual and live activities with guides, including cooking classes, tours, and meetups.
+
+
+
+Regulations
+Europe
+Several European cities such as Barcelona, Amsterdam,[105] Paris, and Venice have enhanced regulations for short-term rentals such as Airbnb to address the increase in the cost of living for locals, as well as the disturbances caused by tourism.[106][107][108][109]
+
+In Ireland, laws were introduced to require a change in planning permission for short-term lets, restricting landlords to renting a short-term let for a maximum of 90 days per year for primary residences and requiring registration by landlords with local authorities. Despite this, only a minority of landlords offering properties on Airbnb actually registered by end 2019, prompting calls for stricter enforcement.[110]
+
+United States
+In the United States, Washington, D.C.,[111] Los Angeles,[112] Santa Monica, San Francisco, Charleston, and New York have imposed restrictions. Jersey City, New Jersey has the most listings in the state and the number one destination for Airbnb[113][114] and is also considered part of the New York City Airbnb market. A November 2019 referendum (originally supported by Airbnb)[115][116] approved regulations for short-term rentals which are considered the most stringent in United States.,[117][118] allowing for only 60 rental days per year.[119]
+
+Japan
+In 2018, Japan created new regulations regarding home-sharing, which includes hosts registering and limiting the numbers of days a home can be rented to 180.
+
+

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/borderedittext.xml" value="0.186" />
+        <entry key="app/src/main/res/drawable-v24/cornershape.xml" value="0.186" />
+        <entry key="app/src/main/res/drawable-v24/folowbutton.xml" value="0.186" />
+        <entry key="app/src/main/res/drawable-v24/shape.xml" value="0.186" />
+        <entry key="app/src/main/res/drawable/arr.xml" value="0.1785" />
+        <entry key="app/src/main/res/drawable/copyright.xml" value="0.186" />
+        <entry key="app/src/main/res/drawable/fborder.xml" value="0.186" />
+        <entry key="app/src/main/res/drawable/gradientb.xml" value="0.186" />
+        <entry key="app/src/main/res/drawable/policy.xml" value="0.186" />
+        <entry key="app/src/main/res/drawable/rate.xml" value="0.186" />
+        <entry key="app/src/main/res/drawable/ratte.xml" value="0.186" />
+        <entry key="app/src/main/res/layout/activity_business__ethics.xml" value="0.24791666666666667" />
+        <entry key="app/src/main/res/layout/activity_detailofall.xml" value="0.109375" />
+        <entry key="app/src/main/res/layout/activity_entrepreneurship__development.xml" value="0.24635416666666668" />
+        <entry key="app/src/main/res/layout/activity_female.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.24791666666666667" />
+        <entry key="app/src/main/res/layout/activity_new_home.xml" value="0.24635416666666668" />
+        <entry key="app/src/main/res/layout/activity_skills.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.24791666666666667" />
+        <entry key="app/src/main/res/layout/bottomsheet.xml" value="0.2462253193960511" />
+        <entry key="app/src/main/res/layout/contentdetail.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/customview.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_investment.xml" value="0.2520833333333333" />
+        <entry key="app/src/main/res/layout/hacks_container.xml" value="0.24635416666666668" />
+        <entry key="app/src/main/res/layout/home.xml" value="0.20919946926138877" />
+        <entry key="app/src/main/res/layout/home_scrolling.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/investment_container.xml" value="0.24635416666666668" />
+        <entry key="app/src/main/res/layout/listdesign.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/new_home.xml" value="0.375" />
+        <entry key="app/src/main/res/menu/bottom_navigation.xml" value="0.24635416666666668" />
+        <entry key="app/src/main/res/menu/menu_bottom.xml" value="0.24635416666666668" />
+        <entry key="app/src/main/res/menu/menu_d.xml" value="0.24635416666666668" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1195" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1195" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,87 @@
+﻿SpaceX
+
+Space Exploration Technologies Corp., trading as SpaceX, is an American aerospace manufacturer and space transportation services company headquartered in Hawthorne, California. It was founded in 2002 by Elon Musk with the goal of reducing space transportation costs to enable the colonization of Mars.[9][10][11] SpaceX has developed several launch vehicles, the Starlink satellite constellation, the Dragon cargo spacecraft, and flown humans to the International Space Station on the Crew Dragon Demo-2.
+
+SpaceX's achievements include the first privately funded liquid-propellant rocket to reach orbit (Falcon 1 in 2008),[12] the first private company to successfully launch, orbit, and recover a spacecraft (Dragon in 2010), the first private company to send a spacecraft to the International Space Station (Dragon in 2012),[13] the first propulsive landing for an orbital rocket (Falcon 9 in 2015), the first reuse of an orbital rocket (Falcon 9 in 2017), the first private company to launch an object into orbit around the Sun (Falcon Heavy's payload of a Tesla Roadster in 2018), and the first private company to send astronauts to orbit and to the International Space Station (SpaceX Crew Dragon Demo-2 Mission in 2020).[14] SpaceX has flown 20[15] cargo resupply missions to the International Space Station (ISS) under a partnership with NASA,[16] as well as an uncrewed demonstration flight of the human-rated Dragon 2 spacecraft (Crew Demo-1) on March 2, 2019, and the first crewed Dragon 2 flight on May 30, 2020.[14]
+
+In December 2015, a Falcon 9 accomplished a propulsive vertical landing. This was the first such achievement by a rocket for orbital spaceflight.[17] In April 2016, with the launch of CRS-8, SpaceX successfully vertically landed the first stage on an ocean drone ship landing platform.[18] In May 2016, in another first, SpaceX again landed the first stage, but during a significantly more energetic geostationary transfer orbit mission.[19] In March 2017, SpaceX became the first to successfully re-launch and land the first stage of an orbital rocket.[20] In January 2020, with the third launch of the Starlink project, SpaceX became the largest commercial satellite constellation operator in the world.[21][22]
+
+In September 2016, Musk unveiled the Interplanetary Transport System—subsequently renamed Starship—a privately funded launch system to develop spaceflight technology for use in crewed interplanetary spaceflight. In 2017, Musk unveiled an updated configuration of the system which is intended to handle interplanetary missions plus become the primary SpaceX orbital vehicle after the early 2020s, as SpaceX has announced it intends to eventually replace its existing Falcon 9 launch vehicles and Dragon space capsule fleet with Starship, even in the Earth-orbit satellite delivery market.[23][24][25]:24:50–27:05 Starship is planned to be fully reusable and will be the largest rocket ever on its debut, scheduled for the early 2020s.
+
+
+History
+
+
+Main article: History of SpaceX
+
+Employees with the Dragon capsule at SpaceX HQ in Hawthorne, California, February 2015
+In 2001, Elon Musk conceptualized Mars Oasis, a project to land a miniature experimental greenhouse and grow plants on Mars. He announced that "This would be the furthest that life's ever traveled"[28] in an attempt to regain public interest in space exploration and increase the budget of NASA.[29][30][31] Musk tried to buy cheap rockets from Russia but returned empty-handed after failing to find rockets for an affordable price.[32][33]
+
+On the flight home, Musk realized that he could start a company that could build the affordable rockets he needed.[33] According to early Tesla and SpaceX investor Steve Jurvetson,[34] Musk calculated that the raw materials for building a rocket were only three percent of the sales price of a rocket at the time. By applying vertical integration,[32] producing around 85% of launch hardware in-house,[35][36] and the modular approach of modern software engineering, Musk believed SpaceX could cut launch price by a factor of ten and still enjoy a 70% gross margin.[37]
+
+
+Launch of Falcon 9 carrying ORBCOMM OG2-M1, July 2014
+In early 2002, Musk was seeking staff for his new space company, soon to be named SpaceX. Musk approached rocket engineer Tom Mueller (later SpaceX's CTO of Propulsion). Mueller agreed to work for Musk, and thus SpaceX was born.[38] SpaceX was first headquartered in a warehouse in El Segundo, California. The company grew rapidly, from 160 employees in November 2005 to 1,100 in 2010,[39][40] 3,800 employees and contractors by October 2013,[41] nearly 5,000 by late 2015,[42][43] and about 6,000 in April 2017.[44] As of November 2017, the company had grown to nearly 7,000,[45] and was 8,000 in May 2020, where COO Gwynn Shotwell said she did not expect the company to grow much more to bring Starlink online.[8] In 2016, Musk gave a speech at the International Astronautical Congress, where he explained that the US government regulates rocket technology as an "advanced weapon technology", making it difficult to hire non-Americans.[46]
+
+
+Falcon 9 rocket's first stage on the landing pad after the second successful vertical landing of an orbital rocket stage, OG2 Mission, December 2015
+As of March 2018, SpaceX had over 100 launches on its manifest representing about $12 billion in contract revenue.[47] The contracts included both commercial and government (NASA/DOD) customers.[48] In late 2013, space industry media quoted Musk's comments on SpaceX "forcing… increased competitiveness in the launch industry", its major competitors in the commercial comsat launch market being Arianespace, United Launch Alliance, and International Launch Services.[49] At the same time, Musk also said that the increased competition would "be a good thing for the future of space". Currently, SpaceX is the leading global commercial launch provider measured by manifested launches.[50]
+
+
+Falcon 9 first stage on an ASDS barge after the first successful landing at sea, CRS-8 Mission.
+On May 30, 2020, SpaceX successfully launched two NASA astronauts (Douglas Hurley and Robert Behnken) into orbit on a Crew Dragon spacecraft during SpaceX Demo-2, making SpaceX the first private company to send astronauts to the International Space Station and marking the first crewed launch from American soil in 9 years.[51][52] The mission launched from Launch Complex 39A of the Kennedy Space Center in Florida.[53] SpaceX Demo-2 successfully docked with the ISS on May 31, 2020.[54] Due to the COVID-19 pandemic happening at the same time, proper quarantine procedures (many of which were already in use by NASA decades before the 2020 pandemic) were taken to prevent the astronauts from bringing COVID-19 aboard the ISS.
+
+
+Goals
+
+Musk has stated that one of his goals is to decrease the cost and improve the reliability of access to space, ultimately by a factor of ten.[57] CEO Elon Musk said: "I believe $500 per pound ($1100/kg) or less is very achievable".[58] Musk has also stated that he wishes to make space travel available for "almost anyone."[59]
+
+
+Falcon Heavy Rocket on Launch Pad 39A in Cape Canaveral, Florida.
+A major goal of SpaceX has been to develop a rapidly reusable launch system. As of March 2013, the publicly announced aspects of this technology development effort include an active test campaign of the low-altitude, low-velocity Grasshopper flight test vehicle,[60][61][62] and a high-altitude, high-speed Falcon 9 post-mission booster return test campaign. In 2015, SpaceX successfully landed the first orbital rocket stage on December 21.
+
+In 2017, SpaceX formed a subsidiary, The Boring Company,[63] and began work to construct a short test tunnel on and adjacent to the SpaceX headquarters and manufacturing facility, utilizing a small number of SpaceX employees,[64] which was completed in May 2018,[65][66] and opened to the public in December 2018.[67] During 2018, The Boring Company was spun out into a separate corporate entity with 6% of the equity going to SpaceX, less than 10% to early employees, and the remainder of the equity to Elon Musk.[67]
+
+At the 2016 International Astronautical Congress, Musk announced his plans to build large spaceships to reach Mars.[68] Using the Starship, Musk planned to send at least two uncrewed cargo ships to Mars in 2022. The first missions would be used to seek out sources of water and build a propellant plant. Musk also planned to fly four additional ships to Mars in 2024 including the first people. From there, additional missions would work to establish a Mars colony.[10][69] These goals are however facing delays.[70]
+
+Musk's advocacy for the long-term settlement of Mars goes far beyond what SpaceX projects to build;[71][72][73] successful colonization of Mars would ultimately involve many more economic actors—whether individuals, companies, or governments—to facilitate the growth of the human presence on Mars over many decades.
+
+
+Achievements
+Major achievements of SpaceX are in the reuse of orbital-class launch vehicles and cost reduction in the space launch industry. Most notable of these being the continued landings and relaunches of the first stage of Falcon 9. As of August 2020, SpaceX has used a single first-stage booster, B1049, at most six times. [77]SpaceX is defined as a private space company and thus its achievements can also be counted as firsts by a private company.
+
+Landmark achievements of SpaceX in chronological order include:[78][unreliable source?]
+
+The first privately funded liquid-fueled rocket to reach orbit (Falcon 1 flight 4 on September 28, 2008)
+The first privately developed liquid-fueled rocket to put a commercial satellite in orbit (RazakSAT on Falcon 1 flight 5 on July 14, 2009)
+The first private company to successfully launch, orbit, and recover a spacecraft (SpaceX Dragon on COTS Demo Flight 1 on December 9, 2010)
+The first private company to send a spacecraft to the International Space Station (Dragon C2+ on May 25, 2012)
+The first private company to send a satellite into geosynchronous orbit (SES-8 on Falcon 9 flight 7 on December 3, 2013)
+The first landing of an orbital rocket's first stage on land (Falcon 9 flight 20 on December 22, 2015)
+The first landing of an orbital rocket's first stage on an ocean platform (Falcon 9 flight 23 on April 8, 2016)
+The first relaunch and landing of a used orbital rocket stage (B1021 on Falcon 9 flight 32 on March 30, 2017)[79]
+The first controlled flyback and recovery of a payload fairing (Falcon 9 flight 32 on March 30, 2017)[80]
+The first re-flight of a commercial cargo spacecraft. (Dragon C106 on CRS-11 mission on June 3, 2017)[81]
+The first private company to send an object into heliocentric orbit (Elon Musk's Tesla Roadster on Falcon Heavy test flight on February 6, 2018)
+The first private company to send a human-rated spacecraft to space (Crew Dragon Demo-1, on Falcon 9 flight 69 on March 2, 2019)
+The first private company to autonomously dock a spacecraft to the International Space Station (Crew Dragon Demo-1, on Falcon 9 flight 69 on March 3, 2019)
+The first use of a full flow staged combustion cycle engine (Raptor) in a free flying vehicle (Starhopper, multiple tests in 2019).
+The first reuse of payload fairing (Starlink 1 Falcon 9 launch on November 11, 2019). The fairing was from the ArabSat-6A mission in April earlier that year.
+The first private company to send humans into orbit (Crew Dragon Demo-2 on May 30, 2020).
+The first private company to send humans to the International Space Station.
+
+
+Ownership, funding and valuation
+In August 2008, SpaceX accepted a US$20 million investment from Founders Fund.[97] In early 2012, approximately two-thirds of the company stock was owned by its founder[98] and his 70 million shares were then estimated to be worth $875 million on private markets,[99] which roughly valued SpaceX at $1.3 billion as of February 2012.[100] After the COTS 2+ flight in May 2012, the company private equity valuation nearly doubled to US$2.4 billion.[101][102] By May 2012—ten years after founding—SpaceX had operated on total funding of approximately US$1 billion over its first decade of operation. Of this, private equity provided approximately US$200 million with Musk investing approximately US$100 million and other investors having put in about US$100 million (Founders Fund, Draper Fisher Jurvetson, etc.).[103] The remainder had come from progress payments on long-term launch contracts and development contracts, as working capital, not equity.
+
+In January 2015, SpaceX raised US$1 billion in funding from Google and Fidelity, in exchange for 8.33% of the company, establishing the company valuation at approximately US$12 billion. Google and Fidelity joined prior investors Draper Fisher Jurvetson, Founders Fund, Valor Equity Partners and Capricorn.[104][105] In July 2017, the Company raised US$350 million at a valuation of US$21 billion.[106]
+
+Congressional testimony by SpaceX in 2017 suggested that the NASA Space Act Agreement process of "setting only a high-level requirement for cargo transport to the space station [while] leaving the details to industry" had allowed SpaceX to design and develop the Falcon 9 rocket on its own at a substantially lower cost. According to NASA's own independently verified numbers, SpaceX's total development cost for both the Falcon 1 and Falcon 9 rockets was estimated at approximately US$390 million. In 2011, NASA estimated that it would have cost the agency about US$4 billion to develop a rocket like the Falcon 9 booster based upon NASA's traditional contracting processes, about ten times more.[107]
+
+By March 2018, SpaceX had contracts for 100 launch missions, and each of those contracts provides down payments at contract signing, plus many are paying progress payments as launch vehicle components are built in advance of mission launch, driven in part by US accounting rules for recognizing long-term revenue.[48]
+
+
+Successful SpaceX launches by year[108]
+SpaceX raised a total of US$1.33 billion of capital across three funding rounds in 2019.[109] In April 2019, the Wall Street Journal reported the company was raising $500 million in funding.[110] In May 2019, Space News reported SpaceX "raised $1.022 billion" the day after SpaceX launched 60 satellites towards their 12,000 satellite plan named Starlink broadband constellation.[111][112] By May 31, 2019, the valuation of SpaceX had risen to $33.3 billion.[113] In June 2019, SpaceX began a raise of US$300 million, most of it from the Ontario Teachers' Pension Plan, which then had some US$191 billion in assets under management.[114][needs update]
+
+As of February 2020, SpaceX was raising an additional amount of about US$250 million through equity stock offerings. In May 2020, the company valuation reached US$36 billion.[115] On August 19, 2020, after having had finished a $1.9 billion funding round, one of the largest single fundraising pushes by any privately held company, SpaceX's valuation increased to $46 billion.

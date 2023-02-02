@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Skills"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Female Entepreneurship"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="15dp"
+            android:textSize="22sp"
+            android:textColor="@color/grey"
+            android:fontFamily="@font/googlefont"
+            android:textStyle="bold"/>
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/one"
+            android:layout_width="match_parent"
+            android:layout_height="270dp"
+            app:cardMaxElevation="10dp"
+            app:cardCornerRadius="10dp"
+            app:cardUseCompatPadding="true">
+
+            <LinearLayout
+                android:background="@color/anim"
+                android:id="@+id/linbha"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+
+                <pl.droidsonroids.gif.GifImageView
+                    android:layout_marginTop="15dp"
+                    android:id="@+id/img"
+                    android:layout_width="match_parent"
+                    android:layout_height="150dp"
+                    android:background="@color/anim"
+                    android:src="@drawable/dddd" />
+
+
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+
+        <TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Business Scheme"
+    android:layout_marginTop="10dp"
+    android:layout_marginLeft="15dp"
+    android:textSize="22sp"
+    android:textColor="@color/grey"
+    android:fontFamily="@font/googlefont"
+    android:textStyle="bold"/>
+
+         <androidx.cardview.widget.CardView
+        android:id="@+id/Marketing"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        app:cardMaxElevation="10dp"
+        app:cardCornerRadius="10dp"
+        app:cardUseCompatPadding="true">
+
+        <LinearLayout
+            android:background="@color/white"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:src="@drawable/m"
+                android:layout_gravity="center"
+                android:scaleType="fitXY"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="10"/>
+
+            <TextView
+                android:padding="3dp"
+                android:paddingTop="4dp"
+                android:textSize="18sp"
+                android:text="Marketing"
+                android:textColor="@color/black"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"/>
+
+
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+
+         <androidx.cardview.widget.CardView
+        android:id="@+id/exp"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        app:cardMaxElevation="10dp"
+        app:cardCornerRadius="10dp"
+        app:cardUseCompatPadding="true">
+
+        <LinearLayout
+            android:background="@color/white"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:src="@drawable/exp"
+                android:layout_gravity="center"
+                android:scaleType="fitXY"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="10"/>
+
+            <TextView
+                android:padding="3dp"
+                android:paddingTop="4dp"
+                android:textSize="18sp"
+                android:text="Process Of Business Expansion"
+                android:textColor="@color/black"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"/>
+
+
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+
+         <androidx.cardview.widget.CardView
+        android:id="@+id/hr"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        app:cardMaxElevation="10dp"
+        app:cardCornerRadius="10dp"
+        app:cardUseCompatPadding="true">
+
+        <LinearLayout
+            android:background="@color/white"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:src="@drawable/hr"
+                android:layout_gravity="center"
+                android:scaleType="fitXY"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="10"/>
+
+            <TextView
+                android:padding="3dp"
+                android:paddingTop="4dp"
+                android:textSize="18sp"
+                android:text="HR &amp; People Managment"
+                android:textColor="@color/black"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"/>
+
+
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+
+         <androidx.cardview.widget.CardView
+        android:id="@+id/Sales"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        app:cardMaxElevation="10dp"
+        app:cardCornerRadius="10dp"
+        app:cardUseCompatPadding="true">
+
+        <LinearLayout
+            android:background="@color/white"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:src="@drawable/ss"
+                android:layout_gravity="center"
+                android:scaleType="fitXY"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="10"/>
+
+            <TextView
+                android:padding="3dp"
+                android:paddingTop="4dp"
+                android:textSize="18sp"
+                android:text="Sales"
+                android:textColor="@color/black"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"/>
+
+
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+
+         <androidx.cardview.widget.CardView
+        android:id="@+id/mm"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        app:cardMaxElevation="10dp"
+        app:cardCornerRadius="10dp"
+        app:cardUseCompatPadding="true">
+
+        <LinearLayout
+            android:background="@color/white"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:src="@drawable/mm"
+                android:layout_gravity="center"
+                android:scaleType="fitXY"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="10"/>
+
+            <TextView
+                android:padding="3dp"
+                android:paddingTop="4dp"
+                android:textSize="18sp"
+                android:text="Motivation &amp; Mind Control"
+                android:textColor="@color/black"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"/>
+
+
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+
+    </LinearLayout>
+
+
+
+
+</ScrollView>

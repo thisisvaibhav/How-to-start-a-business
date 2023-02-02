@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Hacks"
+        android:icon="@mipmap/hhss"
+        android:title="Ideas" />
+
+    <item
+        android:id="@+id/Category"
+        android:icon="@mipmap/ccc"
+        android:title="Expert" />
+
+
+    <item
+        android:id="@+id/profile"
+        android:icon="@mipmap/pp"
+        android:title="Setting"/>
+
+</menu>

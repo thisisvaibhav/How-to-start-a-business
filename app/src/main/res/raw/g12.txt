@@ -1,0 +1,15 @@
+﻿SECURITY OF CONCERNS
+
+What are the security concerns?
+
+Top 5 Security Concerns Facing Enterprises
+
+1. Lack of an over-arching enterprise security architecture framework. There is a consensus that enterprise security architecture is a methodology for addressing security concerns at every and each architecture domain (business, data, application and technology) and layer of abstraction (contextual, conceptual, logical, physical and implementation). However, the practical experience shows that the existing enterprise architecture and security architecture frameworks are not quite there yet.
+
+2. A need to transform the security organisation. Information security has been traditionally dealt at the information security management, operational security and solution design level, resulting in lack of alignment with both business and IT and operational imbalance. Our approach to resolving this issue is what we call “architecting a security organisation”. We define the security capabilities starting at the governance level through architecture and planning to build, delivery and monitoring. We position the security capabilities as a subset of the business reference model to give understanding of how they fit within the organisational units, business functions and processes.
+
+3. Enterprise-wide regulatory and internal compliance. The increasing number and scope of regulatory requirements can affect the products and service delivery. At Enterprise Architects, we use enterprise architecture to resolve conflicts between business objectives, internal compliance requirements and regulatory and legislative requirements. Gaining clarity around what these are, what are their conflicts and how are they affecting the core business capabilities facilitates business decision making.
+
+4. A need for business-outcome-focused and risk-driven security reference architectures. In our enterprise security architecture framework, risk and business objectives are the key drivers for the selection of security controls. As this is a top-down approach, it ensures that all policies and controls are identified and owned.
+
+5. Data privacy concerns in relation to emerging trends and technologies, such as cloud, BYOD and mobility security. The key challenge here is not around infrastructure architecture and design, but around gaining clarity and resolving conflicts in relation to data privacy requirements, threat and vulnerability vectors and business objectives. The architectural approach to security allows one to gain clarity around the aforementioned, at the business, data and infrastructure security level.

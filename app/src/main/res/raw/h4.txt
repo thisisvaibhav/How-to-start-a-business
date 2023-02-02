@@ -1,0 +1,34 @@
+﻿DEFINING SUCESS CRITERIA
+
+Why are project success criteria important?
+
+Organisations don’t define failure. We don’t document how we will know if a project has failed – what failure looks like – because thinking about failing is not 
+a good way to motivate the project team when the work has only just started. 
+The absence of a formal definition of failure makes it uncomfortably easy for internal and external stakeholders to brand projects a failure.
+
+Two types of project success criteria
+
+So you want to know how you’ll know if your project has been a success? You need to identify what success looks like for you and your stakeholders. And the easiest way to do this is to brainstorm with your team.
+
+During this process you’ll probably come up with success criteria related to the management of the project. These are the success criteria which you can refer to in project audits or the post-project review.
+ They help focus your mind on the ‘business’ of project management and relate to doing the project right. They help you check that you’re hitting all the right targets and are applying project management standards appropriately. Examples would be things like:
+
+Hold a Project Board meeting once a month
+Complete project audits in line with the timetable published by the Project Office
+Ensure all timesheets are completed by the deadlines
+Achieve 95% compliance on project quality reviews.
+Alone these success criteria are not sufficient. They help you measure whether you’re doing a good job but not whether you are actually delivering anything useful for your stakeholders.
+
+Your success criteria analysis should also identify deliverable-based project success criteria which are strongly linked to the business case and the rationale behind doing the project.
+It’s hard to give sensible examples as they are tied so tightly to what your project is delivering but you should aim for things like:
+
+Achieve rollout of software to all users
+Train 95% of staff within the two week training period
+Improve customer satisfaction by 65% over the first three months
+Gain Centre of Excellence accreditation for Marketing department.
+You get the picture.
+
+So, to summarise:
+
+Project management success criteria: Related to the professional job of running the project e.g. Produce and gain sign off for project initiation document
+Project deliverable success criteria: Related to things delivered as a result of the project e.g. Distribute 6,000 instructional leaflets to households in our target area.

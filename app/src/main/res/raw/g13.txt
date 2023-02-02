@@ -1,0 +1,56 @@
+﻿RISK PRONE AREA
+
+Identifying and Managing Business Risks
+
+Identifying Risks
+
+If and when a risk becomes a reality, a well-prepared business can minimize the impact on earnings, the lost time and productivity, and the negative impact on customers. 
+For startup businesses and established organizations, the ability to identify which risks pose a threat to successful operations is a key component of strategic business planning. 
+Business risks are identified using various methods, but each identifying strategy relies on a comprehensive analysis of specific business activities that could present challenges 
+to the company. Under most business models, organizations face preventable, strategic, and external threats that can be managed through either acceptance, transfer, reduction, or 
+elimination.
+
+
+Physical Risks
+
+Building risks are the most common type of physical risk. Fire or explosions are the most common risk to a building. To manage building risk, and the risk to employees, it is important that organizations do the following:
+
+1. Make sure all employees know the exact street address of the building to give to the 911 operator in case of emergency.
+2. Make sure all employees know the location of all exits.
+3. Install fire alarms and smoke detectors.
+4. Install a sprinkler system to provide additional protection to the physical plant, equipment, documents, and, of course, personnel.
+5. Inform all employees that in the event of emergency their personal safety takes priority over everything else. Employees should be 
+   instructed to leave the building and abandon all work-associated documents, equipment, and/or products.
+
+Hazardous material risk 
+
+is present where spills or accidents are possible. The hazardous materials most frequently spilled or released into the atmosphere of a workplace are:
+
+1. Gas
+2. Toxic fumes
+3. Toxic dust or filings
+4. Poisonous liquids or waste
+
+Location Risks
+
+Among the location hazards facing a business are nearby fires, storm damage, floods, hurricanes or tornados, earthquakes, and other natural disasters. 
+Employees should be familiar with the streets leading in and out of the neighborhood on all sides of the place of business. Individuals should keep sufficient 
+fuel in their vehicles to drive out of and away from the area. Liability or property and casualty insurance are often used to transfer the financial burden of location 
+risks to a third-party or a business insurance company.
+
+Human Risks
+
+Alcohol and drug abuse are major risks to personnel in the workforce. Employees suffering from alcohol or drug abuse should be urged to seek 
+counseling, and rehabilitation, if necessary. Some insurance policies may provide partial coverage for the cost of treatment.
+
+
+
+Technology Risks
+
+A power outage is perhaps the most common technology risk. Auxiliary gas-driven power generators are a reliable back-up system to provide electrical energy for lighting and other functions. Manufacturing plants use several large auxiliary generators to keep a factory operational until utility power is restored.
+
+Computers may be kept up and running with high-performance back-up batteries. Power surges may occur during a lightning storm (or randomly), so organizations should furnish critical business systems with surge-protection devices to avoid loss of documents and destruction of equipment. Establish offline and online data back-up systems to protect critical documents.
+
+Although telephone and communications failure are relatively uncommon, risk managers may consider providing emergency-use-only company cell phones to personnel whose use of the phone or internet is critical to their business.
+
+

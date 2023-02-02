@@ -1,0 +1,27 @@
+﻿TYPE'S OF PREFERENCE SHARE
+
+What are the different types of preference shares?
+
+1. Callable Shares
+
+Callable shares are preferred shares that the issuing company can choose to buy back at a fixed price in the future. This stipulation benefits the issuing company more than the shareholder because it essentially enables the company to put a cap on the value of the stock.
+
+If the company retains the right to repurchase callable shares at $45 a share, it may choose to buy out shareholders at this price if the market value of preferred shares looks like it might exceed this level. Callable shares ensure the company can limit its maximum liability to preferred shareholders.
+
+2. Convertible Shares
+
+Convertible shares are preferred shares that can be exchanged for common shares at a fixed rate. This can be especially lucrative for preferred shareholders if the market value of common shares increases.
+
+Assume an investor purchases five shares of convertible preferred stock at $50 per share, and one share of preferred stock can be converted to three shares of common stock. Profit can be made on the initial $250 investment if the five preferred shares are converted to 15 common shares when the value of common shares moves above $17 ($17 * 15 = $255). Once the shares have been exchanged, the shareholder gives up the benefit of a fixed dividend and cannot convert common shares back to preferred shares.
+
+3. Cumulative Shares
+
+Preference shares that include a cumulative clause protect the investor against a downturn in company profits. If revenues are down, the issuing company may not be able to afford to pay dividends. Cumulative shares require that any unpaid dividends must be paid to preferred shareholders before any dividends can be paid to common shareholders. If a company guarantees dividends of $10 per preference share but cannot afford to pay for three consecutive years, then it must pay a $40 cumulative dividend in the fourth year before any other dividends can be paid.
+
+4. Participatory Shares
+
+Participatory preference shares provide an additional profit guarantee to shareholders. All preference shares have a fixed dividend rate, which is their chief benefit. However, participatory shares guarantee additional dividends in the event that the issuing company meets certain financial goals. If the company has a particularly lucrative year and meets a predetermined profit target, holders of participatory shares receive dividend payments above the normal fixed rate.
+
+5. Compete Risk Free with $100,000 in Virtual Cash
+
+Put your trading skills to the test with our FREE Stock Simulator. Compete with thousands of Investopedia traders and trade your way to the top! Submit trades in a virtual environment before you start risking your own money. Practice trading strategies so that when you're ready to enter the real market, you've had the practice 

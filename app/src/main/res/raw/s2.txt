@@ -1,0 +1,54 @@
+﻿Stripe
+
+Stripe is an American financial services and software as a service (SaaS) company headquartered in San Francisco, California, United States. The company primarily offers payment processing software and application programming interfaces (APIs) for e-commerce websites and mobile applications.
+
+History
+Irish entrepreneur brothers John and Patrick Collison founded Stripe in 2010, initially using the name /dev/payments.[3][4][5]
+
+In 2012, the company moved from Palo Alto to San Francisco.[5]
+
+In March 2013, Stripe made its first acquisition, Kickoff, a chat and task-management application.[6]
+
+In October 2019, the company announced that it would be moving from the South of Market area to Oyster Point in the neighboring city of South San Francisco in 2021.
+
+
+Services
+Payment processing
+Stripe provides APIs that web developers can use to integrate payment processing into their websites and mobile applications.[7]
+
+In April 2018, the company released anti-fraud tools, branded "Radar", that block fraudulent transactions.[8]
+
+In 2018, the company expanded its services to include a billing product for online businesses. The service operates within the Stripe platform, allowing businesses to manage subscription recurring revenue and invoicing.[9]
+
+Connect
+In 2012, Stripe launched Connect, a service allowing businesses to create platforms, such as marketplaces, where Stripe handles the payment processing between buyers and sellers.[10]
+
+Atlas
+On February 24, 2016, the company launched the Atlas platform to register U.S. companies for startups. The platform originally launched as invite-only.[11] In March 2016, Cuba was added to the list of countries covered under the program.[12] Atlas was relaunched with improvements the following year. As of April 2017, Atlas had signed more than 200 international startups.[13] As of March 2019, startups from 120 countries have used Stripe Atlas to start their business.[14]
+
+Companies registered using Atlas can be Delaware-based C corporations, or, as of April 30, 2018, limited liability companies.[15]
+
+Issuing
+In July 2018, Stripe began a platform for companies to issue Mastercard and Visa credit cards, available in private beta.[16]
+
+Terminal
+On September 17, 2018, Stripe announced a new point of sale solution called Terminal, initially launched as an invite-only beta. The service offers physical credit card readers designed to work with Stripe.[17] As of July 2020, Terminal supports two card readers: Verifone P400 and BBPOS Chipper 2X BT.[18] On June 11, 2019, Stripe made Terminal available to all U.S. users, ending the product's beta testing phase.[19][20]
+
+Lending
+Stripe ventured into lending in 2019, when it began offering loans and credit cards to businesses in the United States. The company stated that loans are approved automatically using machine learning models, with no human intervention.
+
+
+Growth
+In May 2011, Stripe received a $2 million investment from venture capitalists Peter Thiel, Sequoia Capital, and Andreessen Horowitz.[22] Stripe launched publicly in September 2011 after an extensive private beta.[23]
+
+In May 2020, Stripe expanded its services in 5 new markets in Europe: the Czech Republic, Romania, Bulgaria, Cyprus, and Malta.
+
+
+Investments
+Stripe is reported to have participated in two funding rounds for Monzo, a "challenger bank" based in the U.K. Stripe's first investment in Monzo was reported on November 6, 2017,[33] with a second investment in Monzo's Series E fundraising round reported on October 10, 2018.[34] Monzo's valuation grew from approximately $350 million[33] to $1.27 billion[34] through these two rounds of fundraising. Stripe participated in a third round of funding for Monzo on June 24, 2019, which raised approximately $144 million in funding for Monzo at a valuation of approximately $2.5 billion.[35][36]
+
+Stripe has invested in companies offering similar services as themselves, but in different geographical regions. In August 2018, Stripe invested in Paystack, a Nigerian payment processor,[37] and, in September 2019, invested in PayMongo, a Philippine payment processor.[38]
+
+On June 6, 2019, Stripe led a $22.5 million fundraising round for Step, a financial services startup offering fee-free bank accounts to teenagers.[39]
+
+On March 26th, 2020, Stripe led a $20 million Series A fundraising round for Fast, a company creating a universal, one-click checkout service.

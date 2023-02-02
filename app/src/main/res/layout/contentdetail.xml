@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:alpha="0.85"
+        android:padding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+     <ImageView
+         android:layout_marginTop="10dp"
+         android:layout_gravity="center_horizontal"
+         android:layout_width="50dp"
+         android:layout_height="50dp"
+         android:alpha="0.70"
+         android:src="@drawable/content" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/googlefont"
+            android:padding="10dp"
+            android:text="Data Content"
+            android:textColor="@color/back"
+            android:textSize="22sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:layout_marginTop="10dp"
+            android:fontFamily="@font/googlefont"
+            android:text="@string/contentaboutapp"
+            android:textColor="@color/back"
+            android:textSize="16sp"
+            android:textStyle="normal" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:fontFamily="@font/googlefont"
+            android:padding="10dp"
+            android:text="Image Content"
+            android:textColor="@color/back"
+            android:textSize="22sp"
+            android:textStyle="bold" />
+
+     <TextView
+         android:layout_marginTop="10dp"
+         android:layout_margin="10dp"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:fontFamily="@font/googlefont"
+         android:text="@string/contentaboutapp1"
+         android:textColor="@color/back"
+         android:textSize="16sp"
+         android:textStyle="normal" />
+
+     <TextView
+         android:layout_marginTop="10dp"
+         android:layout_margin="10dp"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:fontFamily="@font/googlefont"
+         android:text="@string/introimageAttribute1"
+         android:textColor="@color/back"
+         android:textSize="15sp"
+         android:textStyle="normal" />
+
+     <TextView
+         android:layout_marginTop="10dp"
+         android:layout_margin="10dp"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:fontFamily="@font/googlefont"
+         android:text="@string/introimageAttribute2"
+         android:textColor="@color/back"
+         android:textSize="15sp"
+         android:textStyle="normal" />
+
+     <TextView
+         android:layout_marginTop="10dp"
+         android:layout_margin="10dp"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:fontFamily="@font/googlefont"
+         android:text="@string/introimageAttribute4"
+         android:textColor="@color/back"
+         android:textSize="15sp"
+         android:textStyle="normal" />
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_margin="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/googlefont"
+            android:text="@string/introimageAttribute3"
+            android:textColor="@color/back"
+            android:textSize="15sp"
+            android:textStyle="normal" />
+
+     <LinearLayout
+         android:layout_marginTop="10dp"
+         android:layout_gravity="center_horizontal"
+         android:gravity="center_horizontal"
+         android:layout_width="match_parent"
+         android:orientation="horizontal"
+         android:layout_height="wrap_content">
+
+      <ImageView
+          android:layout_marginLeft="70dp"
+          android:layout_width="wrap_content"
+          android:layout_height="match_parent"
+          android:src="@drawable/copyright"/>
+
+      <TextView
+          android:layout_marginTop="10dp"
+          android:layout_margin="10dp"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:fontFamily="@font/googlefont"
+          android:text="All Copyright are Reserved"
+          android:textColor="@color/back"
+          android:textSize="14sp"
+          android:textStyle="normal" />
+
+
+     </LinearLayout>
+    </LinearLayout>
+
+
+</ScrollView>

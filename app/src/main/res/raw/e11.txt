@@ -1,0 +1,29 @@
+﻿BUY-BACK OF SHARE
+
+Why would a company buy back its own shares?
+
+Reasons for Buybacks
+
+Since companies raise equity capital through the sale of common and preferred shares, it may seem counter-intuitive that a business might choose to give that money back. However, there are numerous reasons why it may be beneficial to a company to repurchase its shares, including ownership consolidation, undervaluation, and boosting its key financial ratios.
+Stock Buyback/Repurchase
+
+Unused Cash Is Costly
+
+Each share of common stock represents a small stake in the ownership of the issuing company, including the right to vote on company policy and financial decisions. If a business has a managing owner and one million shareholders, it actually has 1,000,001 owners. Companies issue shares to raise equity capital to fund expansion, but if there are no potential growth opportunities in sight, holding on to all that unused equity funding means sharing ownership for no good reason.
+Businesses that have expanded to dominate their industries, for example, may find that there is little more growth to be had. With so little headroom left to grow into, carrying large amounts of equity capital on the balance sheet becomes more of a burden than a blessing.
+Shareholders demand returns on their investments in the form of dividends which is a cost of equity – so the business is essentially paying for the privilege of accessing funds it isn't using. Buying back some or all of the outstanding shares can be a simple way to pay off investors and reduce the overall cost of capital. For this reason, Walt Disney (DIS) reduced its number of outstanding shares in the market by buying back 73.8 million shares, collectively valued at $7.5 billion, back in 2016.
+3 Reasons Why Companies Buy Back Stocks
+Melissa Ling {Copyright} Investopedia, 2019.
+
+It Preserves the Stock Price
+
+Shareholders usually want a steady stream of increasing dividends from the company. And one of the goals of company executives is to maximize shareholder wealth. However, company executives must balance appeasing shareholders with staying nimble if the economy dips into a recession. 
+One of the hardest hit banks during the Great Recession was Bank of America Corporation (BAC). The bank has recovered nicely since then, but still has some work to do in getting back to its former glory. However, as of the end of 2017, Bank of America had bought back 509 million shares over the prior 12-month period. Although the dividend has increased over the same period, the bank's executive management has consistently allocated more cash to share repurchases rather than dividends. 
+Why are buybacks favored over dividends? If the economy slows or falls into recession, the bank might be forced to cut its dividend to preserve cash. The result would undoubtedly lead to a sell-off in the stock. However, if the bank decided to buy back fewer shares, achieving the same preservation of capital as a dividend cut, the stock price would likely take less of a hit. Committing to dividend payouts with steady increases will certainly drive a company's stock higher, but the dividend strategy can be a double-edged sword for a company. In the event of a recession, share buybacks can be decreased more easily than dividends, with a far less negative impact on the stock price.
+
+The Stock Is Undervalued
+
+Another major motive for businesses to do buybacks: They genuinely feel their shares are undervalued. Undervaluation occurs for a number of reasons, often due to investors' inability to see past a business' short-term performance, sensationalist news items or a general bearish sentiment. A wave of stock buybacks swept the United States in 2010 and 2011 when the economy was undergoing a nascent recovery from the Great Recession. Many companies began making optimistic forecasts for the coming years, but company stock prices still reflected the economic doldrums that plagued them in years prior. These companies invested in themselves by repurchasing shares, hoping to capitalize when share prices finally began to reflect new, improved economic realities.
+If a stock is dramatically undervalued, the issuing company can repurchase some of its shares at this reduced price and then re-issue them once the market has corrected, thereby increasing its equity capital without issuing any additional shares. Though it can be a risky move in the event that prices stay low, this maneuver can enable businesses who still have long-term need of capital financing to increase their equity without further diluting company ownership.
+For example, let's assume a company issues 100,000 shares at $25 per share, raising $2.5 million in equity. An ill-timed news item questioning the company's leadership ethics causes panicked shareholders begin to sell, driving the price down to $15 per share. The company decides to repurchase 50,000 shares at $15 per share for a total outlay of $750,000 and wait out the frenzy. The business remains profitable and launches a new and exciting product line the following quarter, driving the price up past the original offering price to $35 per share. After regaining its popularity, the company reissues the 50,000 shares at the new market price for a total capital influx of $1.75 million. Because of the brief undervaluation of its stock, the company was able to turn $2.5 million in equity into $3.5 million without further diluting ownership by issuing additional shares.
+

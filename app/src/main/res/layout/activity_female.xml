@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".female"
+    android:background="@color/fback"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:background="@color/fback"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_marginTop="20dp"
+            android:text="Female Entrepreneurship"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:fontFamily="@font/googlefont"
+            android:layout_marginLeft="15dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <TextView
+            android:layout_marginHorizontal="25dp"
+            android:text="@string/quoteforfemale"
+            android:textSize="12sp"
+            android:layout_marginTop="15dp"
+            android:textColor="@color/black"
+            android:fontFamily="@font/googlefont"
+            android:layout_marginLeft="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_marginTop="15dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:weightSum="10">
+
+                    <androidx.cardview.widget.CardView
+                        android:id="@+id/one"
+                        android:layout_width="0dp"
+                        app:cardCornerRadius="10dp"
+                        android:layout_weight="5"
+                        android:layout_height="200dp"
+                        app:cardUseCompatPadding="true"
+                        app:cardMaxElevation="7dp">
+
+                        <FrameLayout
+
+                            android:layout_width="match_parent"
+                            android:background="@drawable/fborder"
+                            android:layout_height="match_parent">
+
+                            <ImageView
+                                android:layout_width="match_parent"
+                                android:layout_height="110dp"
+                                android:src="@drawable/oneee"
+                                android:layout_marginTop="10dp"/>
+
+                            <TextView
+                                android:layout_width="match_parent"
+                                android:layout_marginTop="125dp"
+                                android:text="Business Idea"
+                                android:textColor="@color/black"
+                                android:gravity="center_horizontal"
+                                android:textSize="17sp"
+                                android:textStyle="bold"
+                                android:fontFamily="@font/googlefont"
+                                android:layout_height="wrap_content"/>
+
+                        </FrameLayout>
+                    </androidx.cardview.widget.CardView>
+
+                    <androidx.cardview.widget.CardView
+                        android:id="@+id/two"
+                        app:cardCornerRadius="10dp"
+                        android:layout_width="0dp"
+                        android:layout_weight="5"
+                        android:layout_height="200dp"
+                        app:cardUseCompatPadding="true"
+                        app:cardMaxElevation="7dp">
+
+                        <FrameLayout
+                            android:layout_width="match_parent"
+                            android:background="@drawable/fborder"
+                            android:layout_height="match_parent">
+
+                            <ImageView
+                                android:layout_width="match_parent"
+                                android:layout_height="110dp"
+                                android:src="@drawable/two"
+                                android:layout_marginTop="10dp"/>
+
+                            <TextView
+                                android:layout_width="match_parent"
+                                android:layout_marginTop="125dp"
+                                android:text="Online Business"
+                                android:textColor="@color/black"
+                                android:gravity="center_horizontal"
+                                android:textSize="17sp"
+                                android:textStyle="bold"
+                                android:fontFamily="@font/googlefont"
+                                android:layout_height="wrap_content"/>
+
+                        </FrameLayout>
+
+                    </androidx.cardview.widget.CardView>
+
+
+
+
+                </LinearLayout>
+
+
+
+                <LinearLayout
+                    android:layout_marginTop="15dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:weightSum="10">
+
+                    <androidx.cardview.widget.CardView
+                        android:id="@+id/three"
+                        app:cardCornerRadius="10dp"
+                        android:layout_width="0dp"
+                        android:layout_weight="5"
+                        android:layout_height="200dp"
+                        app:cardUseCompatPadding="true"
+                        app:cardMaxElevation="7dp">
+
+                        <FrameLayout
+                            android:layout_width="match_parent"
+                            android:background="@drawable/fborder"
+                            android:layout_height="match_parent">
+
+                            <ImageView
+                                android:layout_width="match_parent"
+                                android:layout_height="110dp"
+                                android:src="@drawable/three"
+                                android:layout_marginTop="10dp"/>
+
+                            <TextView
+                                android:layout_width="match_parent"
+                                android:layout_marginTop="125dp"
+                                android:text="Business Skills"
+                                android:textColor="@color/black"
+                                android:gravity="center_horizontal"
+                                android:textSize="17sp"
+                                android:textStyle="bold"
+                                android:fontFamily="@font/googlefont"
+                                android:layout_height="wrap_content"/>
+
+                        </FrameLayout>
+                    </androidx.cardview.widget.CardView>
+
+                    <androidx.cardview.widget.CardView
+                        android:id="@+id/four"
+                        app:cardCornerRadius="10dp"
+                        android:layout_width="0dp"
+                        android:layout_weight="5"
+                        android:layout_height="200dp"
+                        app:cardUseCompatPadding="true"
+                        app:cardMaxElevation="7dp">
+
+                        <FrameLayout
+                            android:layout_width="match_parent"
+                            android:background="@drawable/fborder"
+                            android:layout_height="match_parent">
+
+                            <ImageView
+                                android:layout_width="match_parent"
+                                android:layout_height="110dp"
+                                android:src="@drawable/four"
+                                android:layout_marginTop="10dp"/>
+
+                            <TextView
+                                android:layout_width="match_parent"
+                                android:layout_marginTop="125dp"
+                                android:text="Challenges"
+                                android:textColor="@color/black"
+                                android:gravity="center_horizontal"
+                                android:textSize="17sp"
+                                android:textStyle="bold"
+                                android:fontFamily="@font/googlefont"
+                                android:layout_height="wrap_content"/>
+
+                        </FrameLayout>
+
+                    </androidx.cardview.widget.CardView>
+
+
+
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_marginTop="15dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:weightSum="10">
+
+                    <androidx.cardview.widget.CardView
+                        android:id="@+id/five"
+                        app:cardCornerRadius="10dp"
+                        android:layout_width="0dp"
+                        android:layout_weight="5"
+                        android:layout_height="200dp"
+                        app:cardUseCompatPadding="true"
+                        app:cardMaxElevation="7dp">
+
+                        <FrameLayout
+                            android:layout_width="match_parent"
+                            android:background="@drawable/fborder"
+                            android:layout_height="match_parent">
+
+                            <ImageView
+                                android:layout_width="match_parent"
+                                android:layout_height="110dp"
+                                android:src="@drawable/five"
+                                android:layout_marginTop="10dp"/>
+
+                            <TextView
+                                android:layout_width="match_parent"
+                                android:layout_marginTop="125dp"
+                                android:text="Laws"
+                                android:textColor="@color/black"
+                                android:gravity="center_horizontal"
+                                android:textSize="17sp"
+                                android:textStyle="bold"
+                                android:fontFamily="@font/googlefont"
+                                android:layout_height="wrap_content"/>
+
+                        </FrameLayout>
+                    </androidx.cardview.widget.CardView>
+                    <androidx.cardview.widget.CardView
+                        android:id="@+id/six"
+                        app:cardCornerRadius="10dp"
+                        android:layout_width="0dp"
+                        android:layout_weight="5"
+                        android:layout_height="200dp"
+                        app:cardUseCompatPadding="true"
+                        app:cardMaxElevation="7dp">
+
+                        <FrameLayout
+                            android:layout_width="match_parent"
+                            android:background="@drawable/fborder"
+                            android:layout_height="match_parent">
+
+                            <ImageView
+                                android:layout_width="match_parent"
+                                android:layout_height="110dp"
+                                android:layout_marginTop="10dp"
+                                android:src="@drawable/six" />
+
+                            <TextView
+                                android:layout_width="match_parent"
+                                android:layout_marginTop="125dp"
+                                android:text="Goverment Programs"
+                                android:textColor="@color/black"
+                                android:gravity="center_horizontal"
+                                android:textSize="17sp"
+                                android:textStyle="bold"
+                                android:fontFamily="@font/googlefont"
+                                android:layout_height="wrap_content"/>
+
+                        </FrameLayout>
+
+                    </androidx.cardview.widget.CardView>
+
+
+
+
+                </LinearLayout>
+
+
+
+
+            </LinearLayout>
+
+
+    </LinearLayout>
+
+
+</androidx.core.widget.NestedScrollView>

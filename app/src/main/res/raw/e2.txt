@@ -1,0 +1,31 @@
+﻿MEANING AND NATURE OF COMPANY
+
+1. DEFINITION OF A COMPANY  As per Sec. 2(20) of the Companies Act, 2013, ‘company’ means a company incorporated “under this Act”; or “under any previous company law”.  A company is an artificial person created by law, having “separate identity” and “perpetual succession”.
+
+2. NATURE OF A COMPANY A company has a dual nature, as an association of its members but also as a person separate from its members. As soon as necessary formalities of incorporation are satisfied, a new entity comes into existence which is separate and distinct from its directors and shareholders.
+
+3. CHARACTERISTICS OF A COMPANY  Incorporated association  Separate legal entity Limited liability Perpetual succession Common seal Transferability of shares Separate property Capacity to sue and be sued Artificial person Separation of ownership from management
+
+4. INCORPORATED ASSOCIATION  Every company must be compulsorily registered or incorporated under the company’s Act , 2013.  According to sec 3 the minimum number of persons required for forming a private company is two, seven for a public company and one for one person company. These persons are also known as the subscribers to the memorandum.
+
+5. SEPARATE LEGAL ENTITY  A company is in law regarded as an entity separate from its member. It has an independent corporate existence  Any of its member can enter into contract with it in the same manner as any other individual can and he can not be held liable for the acts of the company even if he holds virtually the entire share capital
+
+6. LIMITED LIABILITY  In a company limited by shares, the liability of member is limited to the unpaid value of the shares.  Company limited by guarantee is a incorporated firm without share capital, and in which the liability of its members is limited to the amount each one of them undertakes to contribute at the time the firm is wound up.
+
+7. PERPETUAL SUCCESSION Member may come and go but the company can go on forever. It continues to exist even if all its members are dead. The existence of company can be terminated only by law Ex:- All members of a private company were killed by a bomb while in a general meeting held, The company continues to exist through the legal heirs of the deceased parties or member.
+
+8. COMMON SEAL  Common seal is the official signature of the company.  Any document on which common seal is affixed, is deemed to be signed by the company.
+
+9. TRANSFERABILITY OF SHARES In case of a public company the shares are freely transferable but in the case of a private company there will be certain restriction on the transferability of shares.
+
+10. SEPARATE PROPERTY As a company is a legal person distinct from its members, It is capable of owning ,enjoying and disposing of property in its own name. Although its capital and assets are contributed by its shareholders, they are not the private and joint owner of its property.
+
+11. CAPACITY TO SUE AND BE SUED A company being a separate legal entity has the legal entity to sue others such as members, directors, debtors, outsiders etc. Similarly, a company may also be sued by others such as members, directors, creditors, outsiders.
+
+12. ARTIFICIAL PERSON  A company is not a natural person. Consequently, a company cannot fall ill, or die or be declared as insolvent.  A company is an artificial person.  But it is not a fictitious person. A company does exist but only in the eyes of law. In other words, a company exists only in contemplation of law.
+
+13. SEPARATION OF OWNERSHIP FROM MANAGEMENT  The members do not participate in day-to-day affairs of the company.  The management of the company lies in the hands of elected representatives of members, commonly called as Board of directors or directors of simply the Board.  The directors are appointed as well as removed by the members. Thus, the Act has ensured the ultimate control of members over the company.
+
+14. CASES  SALOMON V. SALOMON & CO. LTD. (1897) MACAURA v NORTHERN ASSURANCE CO LTD (1925) AC 619
+
+15. SALOMON V. SALOMON & CO. LTD. (1897)  Transfer of sole proprietorship business to company. Mr. Salomon was carrying on the business of boot manufacturing as a sole proprietor. He incorporated a company named Salomon & Co. Ltd. for the purpose of taking over this business.  Payment of purchase consideration by the company.  (a) Total consideration £39,000  (b) Cash Paid £ 9,000  (c) Fully paid shares of £ 1 each issued to Salomon £ 20,000  (d) Secured debentures issued to Salomon £10,000.

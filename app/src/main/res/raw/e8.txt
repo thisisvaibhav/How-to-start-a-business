@@ -1,0 +1,36 @@
+﻿PRIVATE COMPANY AND PUBLIC COMPANY
+
+A public company can sell its own registered shares to the general public. A private company can sell its own, privately held shares to a few willing investors. 
+The stocks of a public company are traded on stock exchanges. The stocks of a private company are owned and traded by only a few private investors.
+
+PRIVATE COMPANY
+
+According to the Companies Act, 2013 “A Private company is a company which has a minimum paid-up capital of 1 lakh rupees and which is restricted to have the right to transfer of share”. 
+The Private Limited company has “Pvt.Ltd” at the end of its name.
+
+1. A Public company has "Ltd" at the end of its name.
+
+2. The minimum number of members needed to form a Public Company is at least 7 members.
+
+3. The Public Company have no restriction on a maximum number of members.
+
+4. Public Company should have a minimum paid up capital of 5 lakh rupees.
+
+5. A Public Company can only Commence its business after receiving a certificate of incorporation and Certificate to commencement.
+
+
+PUBLIC COMPANY
+
+According to the Companies Act, 2013 “A Public company is a company which is not a private company and has a minimum paid up capital of 5 lakh rupees and have the right to transfer of 
+shares of a company”. The Public Limited company has “Ltd” at the end of its name.
+
+1. A Private company has "Pvt.Ltd" at the end of its name.
+
+2. The minimum number of members needed to form a private company is at least 2 members.
+
+3. The Maximum number of members in a Private Company is restricted to 200.
+
+4. Private Company should have a minimum paid up capital of 1 lakh rupees.
+
+5. Commencement of business of a Private Company takes place immediately after getting the certificate of incorporation.
+

@@ -1,0 +1,30 @@
+﻿CLASIFICATION OF COMPANY
+
+Primary Classification
+
+Companies are primarily classified into private and public. Private companies or private limited companies are those companies that are closely-held and have less than 200 shareholders. 
+Public companies are limited companies that have more than 200 shareholders and are listed on a stock exchange.
+
+The 2013 Act has brought with it a new form of a company entitled One Person Company (OPC), which in theory is a private company. 
+As can be deciphered from the name, a One Person Company requires only one member to form it. The person forming an OPC must be a natural person, 
+a citizen of India and an Indian resident during the time of formation. A minor can never be a member or a nominee of a member in OPC. OPC provides an opportunity 
+for the sole proprietors to reap the benefits of limited liability by becoming a corporate entity.
+
+Classification on the Basis of Control
+
+Companies, on the basis of control, are classified as follows:
+
+  1. Holding company.
+  2. Associate company.
+
+Holding Company
+
+The relationship of holding or subsidiary companies is established either with the control of Board of Directors or control of share capital. A company will be a holding company of another in the following scenarios:
+
+  1. Controls the composition of the Board of Directors of the other company.
+  2. Exercises or controls more than 50% of the total share capital either on its own or together with one or more of its subsidiary companies.
+
+Associate Company
+
+If a company has significant influence over another company, the latter will be the Associated Company of the first company. 
+Significant influence is derived either from control of at-least 20% of the total share capital, or of business decisions under an agreement.

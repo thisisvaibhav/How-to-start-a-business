@@ -1,0 +1,63 @@
+﻿GET REGISTRATION PROCESS IN INDIA
+
+Here's a step-by-step guide to starting a business in India:
+
+1 Obtain Director Identification Number (DIN) 
+2 Obtain Digital Signature Certificate.
+3 Reserve the company name online. 
+4 Stamp the company documents. 
+5 Get the Certificate of Incororation. 
+6 Make a seal. 
+7 Obtain a Permanent Account Number (PAN)
+
+1. Obtain Director Identification Number (DIN)
+
+Obtain the provisional DIN by filing application Form DIN-1 online. The application form must then be printed and signed and sent for approval to the ministry along with proof of identity and address. Upon verification and approval, a permanent DIN is issued.
+
+2. Obtain Digital Signature Certificate
+
+The digital signature certificate can be obtained from one of six private agencies authorized by MCA 21. Company directors must submit the prescribed application form along with proof of identity and address.
+
+3. Reserve the company name online
+
+Company name approval must be done electronically. The applicant can check the availability of the desired company name on the MCA 21 web site. A maximum of 6 names may be submitted. Once approved, the selected name appears on the website.
+
+4. Stamp the company documents
+
+The request for stamping the incorporation documents should be accompanied by unsigned copies of the Memorandum and Articles of Association (MAA), and the payment receipt. The Superintendent returns the copies, one of which is duly stamped, signed, and embossed. Then the MAA must be signed by the company promoters and required information filled in their own handwriting.
+
+5. Get the Certificate of Incorporation
+
+Forms e-form 1; e-form 18; and e-form 32 are required to be electronically filed on the website of the Ministry of Company Affairs: Scanned copies of the consent of the initial directors, and also of the signed and stamped form of the MAA must be attached to Form 1. One copy of the MAA, Articles of Association, Form 1, Form 32, Form 18 and the original name approval letter, consent of directors and stamped power of attorney must be submitted to the Registrar of Companies. The certificate of incorporation is sent automatically to the registered office of the company by registered mail.
+
+6. Make a seal
+
+Companies require a seal to issue share certificates and other documents. The cost depends on the number of words to be engraved, the number of seals required, and the time period for delivery.
+
+7. Obtain a Permanent Account Number (PAN)
+
+The PAN application is made using Form 49A. After PAN is obtained a printed PAN card would be delivered. The application for PAN can also be made online but the documents still need to be physically sent for verification. 
+
+8. Obtain a Tax Account Number (TAN)
+
+The application for TAN must be filed using Form 49B and submitted at any TIN Facilitation Center. After verification of application, the same is sent to the Income Tax Department and the TAN is issued. The application for a TAN can be made either online through the NSDL website or offline.
+
+9. Register with the Office of Inspector, Shops and Establishment Act (State/Municipal)
+
+A statement containing the employer’s and manager’s names and the establishment’s name, postal address, and category must be sent to the local shop inspector with the applicable fees. Establishments must be registered within 30 days of the opening of the business.
+
+10. Register for GST
+
+Every business whose Annual turnover exceeds Rs 20 lakh (for special states, the amount is Rs 10 lakh) has to register for GST. Please go to the GST portal and follow the procedure instructed.
+
+11. Register for Profession Tax at the Profession Tax Office (State)
+
+According to section 5 of the Profession Tax Act, every employer (not being an officer of the government) is liable to taxation and shall obtain a certificate of registration from the prescribed authority. The company is required to apply to the registering authority using Form 1.
+
+12. Register with Employees’ Provident Fund Organization (National)
+
+The employer is required to provide necessary information to the concerned regional Provident Fund Organization (EPFO) in the prescribed manner for allotment of Establishment Code Number. No separate registration is required for the employees.
+
+13. Register for Medical Insurance
+
+Registration is the process by which every paid employee is identified for insurance purposes and their individual records are set up for them. As per the Employees’ State Insurance (General), Form 01 must be submitted by the employer for registration after which the Employer Code Number is issued.
